@@ -1,5 +1,11 @@
 # create-onchain
 
+## 0.0.24
+
+### Patch Changes
+
+- fix: Allow manifest generator domain parsing to validate longer TLDs - Thanks [@dgca](https://github.com/dgca)! [#2440](https://github.com/coinbase/onchainkit/pull/2440)
+
 ## 0.0.23
 
 ### Patch Changes
